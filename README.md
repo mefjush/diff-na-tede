@@ -1,6 +1,7 @@
-# Diff na Tede
+# Diff na Tede 
+## Esende Mylffon 2006..XXENDE MYLFFON 2026
 
-Stoisz Jacek? To lepiej k... usiądź. W pull requeście na Githubie O... z Nowa..rem diffuje Ciebie.
+Stoisz Jacek? To lepiej k... usiądź. W pull requeście na Githubie O... z Nowa..rem diffuje ciebie.
 
 - [Tede Diff 01: Wstępizzle (feat. DJ Buhh)..Wstępizzin'](https://github.com/mefjush/diff-na-tede/pull/14/changes)
 - [Tede Diff 02: Blask..Plask](https://github.com/mefjush/diff-na-tede/pull/13/changes)
